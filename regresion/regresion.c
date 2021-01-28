@@ -5,7 +5,7 @@
 
 int main()
 {
-        float m,b;
+        float m,b;     // pendiente y ordenada al origen
         int N;
         int i;
         float sumX=0;
