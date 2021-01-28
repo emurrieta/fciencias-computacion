@@ -19,6 +19,7 @@ int main()
         i=0;
         while (scanf ("%f %f", &x[i] , &y[i])!=EOF && i<100) i++;
         N=i;
+
         // realiza sumatorias
         for (i=0; i<N; i++) 
         {
